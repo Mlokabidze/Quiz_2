@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 file conchange for dev1
+=======
+file conf
+change foor dev2
+>>>>>>> eae445a8fab1a638bc4ad708c5499e1227e82ea4
